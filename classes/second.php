@@ -1,8 +1,8 @@
 <?php
 
-class first{
+class second{
     public function __construct(){
-        echo "hello Form second Class";
+        echo "hello Form Second Class";
     }
 }
 
