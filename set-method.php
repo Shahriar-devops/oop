@@ -13,7 +13,7 @@ class student {
 
 $test = new student();
 
-$test->course = "PHP";
+$test->course;
 
 
 
